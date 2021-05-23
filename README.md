@@ -5,23 +5,23 @@ For this homework, we created a website where visualizations of multiple plots c
 Python (Jupyter notebook), HTML, CSS
 ## Visualization ##
 The website contains the following:
-#### Landing page
+#### Landing page:
 
 ![Landing page large screen](WebVisualizations/Images/landing-lg.png)
 
 
-#### Comparisons page
+#### Comparisons page:
 
 ![comparison page large screen](WebVisualizations/Images/comparison-lg.png)
 
 
 
-#### Data page
+#### Data page:
 
 ![data page large screen](WebVisualizations/Images/data-lg.png)
 
 
-#### 4 Visualization pages
+#### Four Visualization pages:
 
 
 ![visualize page large screen](WebVisualizations/Images/visualize-lg.png)
